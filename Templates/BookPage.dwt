@@ -1,0 +1,26 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<!-- TemplateBeginEditable name="doctitle" --> 
+<title></title>
+<!-- TemplateEndEditable --> 
+<style type="text/css"></style>
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable --> 
+<link href="../site.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="frame"> 
+  <div id="contentheader"> 
+    <!-- TemplateBeginEditable name="Page Title" -->Title<!-- TemplateEndEditable -->
+  </div>
+  <div id="teaser"><!-- TemplateBeginEditable name="Teaser" -->Teaser<!-- TemplateEndEditable --></div>
+  <div id="contentmenu"><!-- TemplateBeginEditable name="Menu" -->Menu<!-- TemplateEndEditable --></div>
+    <div id="contentcenter"> 
+    <div id="page"><!-- TemplateBeginEditable name="Content" -->Content<!-- TemplateEndEditable --></div>
+  </div>
+  <br clear="all" />
+  <!-- without this little <br /> NS6 and IE5PC do not stretch the frame div down to encopass the content DIVs -->
+  <div id="footer"><!-- TemplateBeginEditable name="Footer" -->Footer of the frame<!-- TemplateEndEditable --></div>
+  </div>
+</body>
+</html>
